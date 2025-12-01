@@ -1,3 +1,20 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: Yona Jervis
 description: The IT guy your company needs!
+
+
+# Enable dark retro style override
+minima:
+  skin: dark
+
+# Optional blog
+plugins:
+  - jekyll-feed
+markdown: kramdown
+
+# Navigation
+header_pages:
+  - index.md
+  - projects.md
+  - blog.md
+  - about.md
