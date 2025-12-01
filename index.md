@@ -3,8 +3,8 @@ layout: home
 title: "Home"
 ---
 
-# 🕹️ Hi, I'm Your Name  
-Welcome to my dark retro-themed portfolio.
+# 🕹️ Hi, My name is Yona Jervis  
+Welcome to my cool IT portfolio.
 
 I build things, break things, and learn things.
 
